@@ -2,7 +2,7 @@
 public class HelloWorld {
 
 	public static void main(String[] args) {
-		System.out.println("Changed");
+		System.out.println("Changed second time");
 	}
 
 }
